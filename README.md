@@ -1,16 +1,27 @@
 # Project2_wine_quality
 a wine quality prediction ML model in Spark over AWS
 wine-quality-spark-ml/
+
 ├── README.md                    # Main documentation
+
 ├── QUICKSTART.md               # Quick reference
+
 ├── requirements.txt            # Dependencies
+
 ├── train_model.py              # Training script
+
 ├── predict_wine_quality.py     # Prediction script
+
 ├── Dockerfile                  # Container config
+
 ├── data/
+
 │   ├── TrainingDataset.csv
+
 │   └── ValidationDataset.csv
+
 └── docs/
+
     └── setup_guide.pdf         # Comprehensive guide
 
 Architecture Diagram.
