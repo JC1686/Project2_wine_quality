@@ -277,4 +277,5 @@ Overall, ChatGPT served as a fast ideation and debugging companion rather than a
 ## ✅ Final Deliverables
 
 GitHub Code: [https://github.com/JC1686/Project2_wine_quality/tree/main]
+
 Docker Image: [https://hub.docker.com/repository/docker/jchoi1986/project2/general]
